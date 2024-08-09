@@ -1,6 +1,6 @@
 # 1312ru-Stealer Remake (By the same person)
 
-A simple leak of a stealer that show up on as lot of python program as dualhook
+A simple leak of a stealer, that just got rename (still bad)
 
 I don't have that much to say, except using "Fernet" is not that useful, making fake blocked page too! and just being the
 
