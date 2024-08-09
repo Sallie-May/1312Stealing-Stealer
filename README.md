@@ -1,4 +1,4 @@
-# 1312ru-Stealer Look-A-Like
+# 1312ru-Stealer Remake (By the same person)
 
 A simple leak of a stealer that show up on as lot of python program as dualhook
 
